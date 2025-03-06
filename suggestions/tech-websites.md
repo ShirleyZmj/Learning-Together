@@ -1,7 +1,7 @@
 ## 技术网站分享
 
 ### 八股文
-- [前端向](https://www.codecrack.cn/zh/javascript)
+- [前端向](https://www.codecrack.cn/zh)
 - [后端向](https://xiaolincoding.com/)
 
 #### 阮一峰的科技爱好者周刊
