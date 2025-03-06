@@ -1,8 +1,14 @@
 ## 技术网站分享
 
 ### 八股文
+前端
 - [前端向](https://www.codecrack.cn/zh)
+后端
 - [后端向](https://xiaolincoding.com/)
+- https://doocs.github.io/advanced-java/#/
+- https://csdiy.wiki/
+- https://liaoxuefeng.com/books/java/introduction/index.html
+- https://www.github-zh.com/awesome
 
 #### 阮一峰的科技爱好者周刊
 - [阮一峰的科技爱好者周刊](https://github.com/ruanyf/weekly)
