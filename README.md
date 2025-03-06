@@ -8,7 +8,7 @@ Let's learn together, full stack go
 - [AI](./suggestions/AI.md)
 - [DevOps](./suggestions/dev-ops.md)
 - [VPN](./suggestions/vpn.md)
-- [技术网站](./suggestions/tech-website.md)
+- [技术网站](./suggestions/tech-websites.md)
 
 
 
