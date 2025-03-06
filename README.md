@@ -2,52 +2,12 @@
 Let's learn together, full stack go
 让我们一起学起来吧，全栈走起
 
-
-## 2025-03-05 记录 --- 主要是前端学习讨论
-### 对于前端初学者学习路线建议
-- 在学习技术的过程，不要仅仅沉浸在枯燥的知识点里，就给自己一个目标做出来简单点demo会比较有动力嗷
-
-#### 1. 先学习HTML、CSS
-youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
-
-#### 2. 再学习JavaScript、TypeScript
-
-#### 3. 框架
-##### 国外
-- `react` > `angular`/`vue`
-##### 国内
-- `vue`/`react` >> `angular`
-
-#### 4. 进阶
-- `next.js`
-- `tailwind css`
-
-### 借助AI规划学习路线
-- 之前大群里姐妹分享的AI，给AI介绍我的基本情况和目标，让AI规划，再自己敲和调试。---- by Arizq
-
-![AI规划学习路线](./images/Arizq-learning-roadmap.jpg)
-
-### 搭建自己的网站
-#### 无/少手敲代码版本
-- https://zhuanlan.zhihu.com/p/102592286    这个是我古早以前还没转码的时候收藏的，搭个人博客的，属于是没代码基础都能搞有手就行（但是自己优化界面还是得懂html css之类的） --- by 粘粘
-- 可用hexo，关键词：github hexo 博客 ---- by Blue
-
-#### 全部手敲代码版本
-我跟着[CodeBucks](https://www.youtube.com/@CodeBucks)这个频道搭的，
-[我的个人静态网站](https://zhangmengjia.vercel.app/)
-相应的代码[Github](https://github.com/ShirleyZmj/portfolio-website)
-可以fork去自己github上，然后自己再慢慢优化。我现在只有两个模块，视频教程里面有四个模块，后续我打算把project补上
-
-## 其他
-- 国外找前端工作，都希望有个个人网站/github主页也装饰一下，如果现在前端遇到瓶颈的，我建议用next.js，vercel部署平台，搭建一个个人网站， youtube上通过关键字 portfolio website，可以搜到很多教程，可以自己动手试试
-- vercel是个免费部署平台，只要用你的github账号登陆，关联github项目，就能很轻松部署
-- 前端专业可以自己手写
-- 有卡住的ai都解决不了的可以群里沟通
-- 等一个后端经验分享！
-
-
-
-
+## 目录
+- [前端](./suggestions/front-end.md)
+- [后端](./suggestions/back-end.md)
+- [AI](./suggestions/AI.md)
+- [DevOps](./suggestions/dev-ops.md)
+- [VPN](./suggestions/vpn.md)
 
 
 
