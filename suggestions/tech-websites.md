@@ -1,9 +1,7 @@
 ## 技术网站分享
 
 ### 八股文
-前端
 - [前端向](https://www.codecrack.cn/zh)
-后端
 - [后端向](https://xiaolincoding.com/)
 - https://doocs.github.io/advanced-java/#/
 - https://csdiy.wiki/
