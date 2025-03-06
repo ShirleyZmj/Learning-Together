@@ -19,7 +19,7 @@ youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
 ## 借助AI规划学习路线
 - 之前大群里姐妹分享的AI，给AI介绍我的基本情况和目标，让AI规划，再自己敲和调试。---- by Arizq
 
-![AI规划学习路线](./images/Arizq-learning-roadmap.jpg)
+![AI规划学习路线](../images/Arizq-learning-roadmap.jpg)
 
 ## 搭建自己的网站
 ### 无/少手敲代码版本（适合初学者）
