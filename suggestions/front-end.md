@@ -32,6 +32,14 @@ youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
 相应的代码[Github](https://github.com/ShirleyZmj/portfolio-website)
 可以fork去自己github上，然后自己再慢慢优化。我现在只有两个模块，视频教程里面有四个模块，后续我打算把project补上
 
+## 推荐
+### by lhg
+推荐2个我个人感觉作者很会讲解概念的主要关于JS/react的技术博客：
+- 这个比较适合初学者，比较容易理解 他介绍的内容也很实用  https://www.robinwieruch.de/blog/ 
+他最新的教程是关于Nextjs的 感兴趣的话也可以了解一下 The Road to Next
+- 这个博客主要是关于 react 更深度的介绍 有些内容现实中一般情况比较少会用到 适合对 react 很感兴趣且想要深度了解的人😄 
+- https://www.developerway.com/
+
 ## 其他建议
 - 国外找前端工作，都希望有个人网站/GitHub主页展示。建议使用Next.js框架，配合Vercel部署平台搭建。可在YouTube搜索"portfolio website"关键词获取教程
 - Vercel是免费部署平台，只需GitHub账号登录并关联项目即可轻松部署
