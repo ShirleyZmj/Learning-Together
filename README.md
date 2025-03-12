@@ -8,6 +8,7 @@ Let's learn together, full stack go
 - [前端](./suggestions/front-end.md)
 - [Java后端](./suggestions/back-end-java.md)
 - [Golang后端](./suggestions/back-end-golang.md)
+- [数据库](./suggestions/database.md)
 - [全栈教程](./suggestions/full-stack.md)
 - [AI](./suggestions/AI.md)
 - [DevOps](./suggestions/dev-ops.md)

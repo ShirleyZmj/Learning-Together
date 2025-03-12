@@ -10,3 +10,6 @@
 - 然后gin框架：go-gin-example，gorm
 - 最后写一个微服务项目
 - [go语言学习笔记](../materials/golang/index.md)
+- [极客兔兔分布式缓存](https://geektutu.com/post/gee.html): 非常常见的go项目，讲解得非常仔细
+- 师妹面了微信企业和滴滴的go，会让举例具体场景，不同方案（更细粒度的不同数据结构）优缺点对比
+- [rosedb](https://github.com/rosedblabs/rosedb) 还有这个KV存储
