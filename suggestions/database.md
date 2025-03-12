@@ -35,3 +35,18 @@
 4. **数据仓库 & 分布式计算**：
    - 适用于大数据分析、批处理计算。
    - 代表数据库：**Hive、BigQuery、ClickHouse**。
+
+
+## 研究kv存储
+- [rosedb](https://github.com/rosedblabs/rosedb)
+- [bitcask](https://github.com/bitcask/bitcask)
+- [lsm-tree](https://github.com/facebook/rocksdb)
+- [bbolt](https://github.com/etcd-io/bbolt)
+
+## 学术圈分享
+【易百分同学】我主要是搞键值存储的，也算是数据库中的存储引擎，跟实际的数据库产品还是有点差距。存储引擎我主要在搞LSM-tree，工业级的推文比较我也不是了解，但论文里面经常会提到的工业级的系统。比如说LSM-tree的工业级产品facebook的rocksDB，阿里的X-engine，polarDB，PingCap的TiDB，Apache的Cassandra，Google的LevelDB。
+- https://cassandra.apache.org/_/index.html
+- https://docs.pingcap.com/zh/tidb/stable/overview/
+- https://help.aliyun.com/zh/rds/apsaradb-rds-for-mysql/x-engine/
+- https://help.aliyun.com/zh/polardb/product-overview/
+- https://engineering.fb.com/2013/11/21/core-infra/under-the-hood-building-and-open-sourcing-rocksdb/
