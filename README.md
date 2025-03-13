@@ -6,6 +6,7 @@ Let's learn together, full stack go
 ### 建议
 - [设计师](./suggestions/ui-designer.md)
 - [前端](./suggestions/front-end.md)
+- [小程序](./suggestions/mini-program.md)
 - [Java后端](./suggestions/back-end-java.md)
 - [Golang后端](./suggestions/back-end-golang.md)
 - [数据库](./suggestions/database.md)
