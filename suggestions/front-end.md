@@ -5,6 +5,8 @@
 youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 ### 2. 再学习JavaScript、TypeScript
+[Asa推荐不错的js教程](https://zh.javascript.info):
+基本每节都有习题
 
 ### 3. 框架
 #### 国外
