@@ -40,6 +40,9 @@ youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
 - 这个博客主要是关于 react 更深度的介绍 有些内容现实中一般情况比较少会用到 适合对 react 很感兴趣且想要深度了解的人😄 
 - https://www.developerway.com/
 
+## Blog搭建
+  - [Astro](https://docs.astro.build/en/tutorial/0-introduction/)
+
 ## 其他建议
 - 国外找前端工作，都希望有个人网站/GitHub主页展示。建议使用Next.js框架，配合Vercel部署平台搭建。可在YouTube搜索"portfolio website"关键词获取教程
 - Vercel是免费部署平台，只需GitHub账号登录并关联项目即可轻松部署
