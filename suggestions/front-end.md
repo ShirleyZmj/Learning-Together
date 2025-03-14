@@ -42,6 +42,9 @@ youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 ## Blog搭建
   - [Astro](https://docs.astro.build/en/tutorial/0-introduction/)
+  
+### 材料
+- [前端材料](./materials/front-end/index.md)
 
 ## 其他建议
 - 国外找前端工作，都希望有个人网站/GitHub主页展示。建议使用Next.js框架，配合Vercel部署平台搭建。可在YouTube搜索"portfolio website"关键词获取教程
