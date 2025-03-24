@@ -2,7 +2,8 @@
 ## 对于前端初学者学习路线建议
 
 ### 1. 先学习HTML、CSS
-youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
+- youtube教程：https://www.youtube.com/watch?v=G3e-cpL7ofc
+- [freecodecamp教程](https://www.freecodecamp.org/): 互动性强
 
 ### 2. 再学习JavaScript、TypeScript
 [Asa推荐不错的js教程](https://zh.javascript.info):
