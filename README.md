@@ -22,6 +22,7 @@ Let's learn together
 - [VPN](./suggestions/vpn.md)
 - [数据分析师](./suggestions/data-analyst.md)
 - [安全（待更新完整版）](./suggestions/security.md)
+- [C语言](./suggestions/C.md)
 
 
 

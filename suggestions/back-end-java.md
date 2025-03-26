@@ -31,6 +31,9 @@
 2. https://github.com/renrenio/renren-fast-vue
 3. https://github.com/yangzongzhuan/RuoYi
 
+### PDF
+[书本资源](../materials/java/index.md)
+
 ### 系统设计（国外大厂经常考）
 1. [Alex Xu系统设计](https://github.com/mukul96/System-Design-AlexXu/blob/master/System%20Design%20Interview%20An%20Insider%E2%80%99s%20Guide%20by%20Alex%20Xu%20(z-lib.org).pdf)
 
