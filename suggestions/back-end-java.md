@@ -31,6 +31,10 @@
 2. https://github.com/renrenio/renren-fast-vue
 3. https://github.com/yangzongzhuan/RuoYi
 
+### 网站
+- [小林图解计算机基础](https://xiaolincoding.com/)：计算机网络和系统相关的内容，还有一些后端的内容
+- [Java进阶](https://doocs.github.io/advanced-java/#/): 互联网 Java 工程师进阶知识完全扫盲
+
 ### PDF
 [书本资源](../materials/java/index.md)
 

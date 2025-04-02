@@ -13,3 +13,7 @@
 - [极客兔兔分布式缓存](https://geektutu.com/post/gee.html): 非常常见的go项目，讲解得非常仔细
 - 师妹面了微信企业和滴滴的go，会让举例具体场景，不同方案（更细粒度的不同数据结构）优缺点对比
 - [rosedb](https://github.com/rosedblabs/rosedb) 还有这个KV存储
+
+## 资源网站
+- [Golang资料补给包](https://github.com/0voice/Introduction-to-Golang?tab=readme-ov-file):包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+- [Go语言101](https://gfw.go101.org/article/101.html)
