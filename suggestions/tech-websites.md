@@ -13,6 +13,9 @@
 ## 技术书籍
 - [图灵程序设计丛书·图解与入门系列](https://book.douban.com/series/34135)
 - [学习JavaScript数据结构与算法（第3版）](https://weread.qq.com/web/bookDetail/99732570718ff67e997e35b?wfrom=bookDetailH5)：用js来讲数据结构
+- [Github ebooks](https://github.com/lancetw/ebook-1/tree/master)
+- [算法书籍Github链接](https://github.com/0bprashanthc/algorithm-books/tree/master)
+
 
 ## 算法
 - [代码随想录](https://programmercarl.com/)

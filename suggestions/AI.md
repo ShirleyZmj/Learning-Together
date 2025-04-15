@@ -13,3 +13,8 @@
   - https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php
   - https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php
 - [积累实践经验：Kaggle竞赛](https://www.kaggle.com/competitions)
+
+
+## MCP
+- [一文讲透MCP原理及实践](https://mp.weixin.qq.com/s/kElGH8WvrHr_0Hv-nQT8lQ)
+- [MCP材料下载](../materials/AI/index.md)
