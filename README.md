@@ -24,6 +24,7 @@ Let's learn together
 - [安全（待更新完整版）](./suggestions/security.md)
 - [C语言](./suggestions/C.md)
 - [算法](./suggestions/algorithm.md)
+- [测试](./suggestions/qa.md)
 
 ### 工具类
 - [工具](./tools/index.md)
