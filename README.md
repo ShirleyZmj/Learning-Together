@@ -21,6 +21,7 @@ Let's learn together
 - [英语学习](./suggestions/English.md)
 - [VPN](./suggestions/vpn.md)
 - [数据分析师](./suggestions/data-analyst.md)
+- [数据开发](./suggestions/data-development.md)
 - [安全（待更新完整版）](./suggestions/security.md)
 - [C语言](./suggestions/C.md)
 - [算法](./suggestions/algorithm.md)
