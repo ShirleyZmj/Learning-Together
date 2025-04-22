@@ -26,6 +26,7 @@ Let's learn together
 - [C语言](./suggestions/C.md)
 - [算法](./suggestions/algorithm.md)
 - [测试](./suggestions/qa.md)
+- [面试](./suggestions/interviews.md)
 
 ### 工具类
 - [工具](./tools/index.md)
