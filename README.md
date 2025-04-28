@@ -9,7 +9,7 @@ Let's learn together
 ## 目录
 ### 建议
 - [设计师](./suggestions/ui-designer.md)
-- [前端](./suggestions/front-end.md)
+- [前端(含博客搭建)](./suggestions/front-end.md)
 - [小程序](./suggestions/mini-program.md)
 - [Java后端](./suggestions/back-end-java.md)
 - [Golang后端](./suggestions/back-end-golang.md)

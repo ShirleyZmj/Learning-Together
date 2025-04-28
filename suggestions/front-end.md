@@ -27,7 +27,6 @@
 ## 搭建自己的网站
 ### 无/少手敲代码版本（适合初学者）
 - https://zhuanlan.zhihu.com/p/102592286    这个是我古早以前还没转码的时候收藏的，搭个人博客的，属于是没代码基础都能搞有手就行（但是自己优化界面还是得懂html css之类的） --- by 粘粘
-- 可用hexo，关键词：github hexo 博客 ---- by Blue
 
 ### 全部手敲代码版本（适合有一定基础的）
 我跟着[CodeBucks](https://www.youtube.com/@CodeBucks)这个频道搭的，
@@ -44,8 +43,16 @@
 - https://www.developerway.com/
 
 ## Blog搭建
-  - [Astro](https://docs.astro.build/en/tutorial/0-introduction/)
-  
+  1. [Astro](https://docs.astro.build/en/tutorial/0-introduction/)
+  2. hexo + github.io
+    - [教程](https://www.cnblogs.com/liuxianan/p/build-blog-website-by-hexo-github.html)
+    - [自选主题/模板](https://hexo.io/themes/)
+  3. hugo
+     - [hugo+papermod](https://sonnycalcr.github.io/posts/build-a-blog-using-hugo-papermod-github-pages/)
+     - [hugo+stack](https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/)\
+     - [hugo文档](https://gohugo.io/documentation/)
+     - [hugo主题](https://themes.gohugo.io/)
+
 ### 材料
 - [前端材料](./materials/front-end/index.md)
 - [前端八股文](https://www.codecrack.cn/zh)
